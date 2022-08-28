@@ -1,2 +1,2 @@
-# email_templates
+# E-mail Templates
 Templates for FAU emails
